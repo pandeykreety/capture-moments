@@ -3,7 +3,7 @@
 session_start();
 if (!isset($_SESSION['username'])) {
     
-    header("Location: http://localhost/Pixels/login.php");
+    header("Location: http://localhost/capturek/login.php");
     exit();
 }
 
