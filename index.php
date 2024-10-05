@@ -370,7 +370,7 @@ h2 {
                 <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand" href="#">
-                <img src="icons and images/logo.webp" alt="Logo" width="46" height="38" class="d-inline-block">
+                <img src="logo.webp" alt="Logo" width="46" height="38" class="d-inline-block">
                 CAPTURE MoMeNtS
             </a>
             <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
@@ -392,7 +392,7 @@ h2 {
         </div>
     </nav>
     <div class="main_img">
-        <img src="icons and images/team1.webp" class="main_img">
+        <img src="team1.webp" class="main_img">
         <div class="container-fluid">
         <div class="text-area left">
             <div class="title"><?php include 'connect.php';
